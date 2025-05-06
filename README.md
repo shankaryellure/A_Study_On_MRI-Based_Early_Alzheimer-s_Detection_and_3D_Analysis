@@ -1,7 +1,6 @@
-# MRI-Based Early Alzheimer’s Detection and 3D Analysis
 
 <div align="center">
-  <img src="./ReadMeImages/image.png" alt="Project Banner" style="max-width:100%;"/>
+  <img src="./image.png" alt="Project Banner" style="max-width:100%;"/>
 </div>
 
 ## Table of Contents
@@ -138,10 +137,12 @@ Together, these tools—one visual, one quantitative—offer both morphological 
       brew install gcc
       echo 'export DYLD_LIBRARY_PATH=$(brew --prefix)/lib:$DYLD_LIBRARY_PATH' >> ~/.zshrc
       source ~/.zshrc
-  
-  ##Authors & Acknowledgments
-  Shankar Yellure, Prof. Dr. Chetan Jaiswal and Prof.Kruti Shah.
 
-  #Thanks to Quinnipiac Univeristy and committee members.
+  
+  ## Authors & Acknowledgments
+  **Shankar Yellure, Prof. Dr. Chetan Jaiswal and Prof.Kruti Shah.**
+
+
+  # Thanks to Quinnipiac Univeristy and committee members.
 
   
