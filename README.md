@@ -116,6 +116,8 @@ Together, these tools—one visual, one quantitative—offer both morphological 
   
   **5.Interactive VTK viewer →** Volume rendering + slider + click info + labels.
 
+
+
   **Brain Volume Pipeline (brain_shrinkage.py)**
 
   **1.File discovery →** Regex extract date, subject ID, category (AD, MCI, LMCI, EMCI).
