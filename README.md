@@ -141,7 +141,7 @@ Together, these tools—one visual, one quantitative—offer both morphological 
       source ~/.zshrc
 
   
-  ## Authors & Acknowledgments
+  ## Authors and Acknowledgments
   **Shankar Yellure, Prof. Dr. Chetan Jaiswal and Prof.Kruti Shah.**
 
 
