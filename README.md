@@ -132,7 +132,7 @@ Together, these tools—one visual, one quantitative—offer both morphological 
 
   **6.Plotting →** Matplotlib figures: combined & per-category, with/without connecting lines.
 
-  ##Troubleshooting
+  ## Troubleshooting
 
   **libgfortran.5.dylib not found**
 
